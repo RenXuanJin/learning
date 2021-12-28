@@ -1,9 +1,0 @@
-set 无序 确定 互异
-hashset 基于hash表实现 底层hashmap 可以传空 遍历时无序 多一个方法 retainAll 两个集合去交集
-linkhashset 基于哈希表和双向链表实现 底层hashmap 可以传空 双向链表维护顺序 遍历时按照链表顺序遍历
-
-这两个都是两种遍历方式 迭代器或者foreach循环
-判断是否一样 都是通过 hashcode 和 equals
-
-treeset 基于树实现 底层treemap 不可以传空 遍历时有序 按照从小到大顺序
-判断是否一样 通过类继承的Comparable接口中实现的compareTo方法
