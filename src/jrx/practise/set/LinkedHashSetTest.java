@@ -22,7 +22,7 @@ public class LinkedHashSetTest {
 		}
 		System.out.println(lhs.size());  //7
 		lhs.remove(4);
-		System.out.println(lhs.size());  //6
+		System.out.println(lhs.size());  //7
 		//lhs.clear();
 		//System.out.println(lhs.size());  //0
 		

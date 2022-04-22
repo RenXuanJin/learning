@@ -2,16 +2,16 @@ package jrx.practise.thread;
 
 public class Test2 {
     public static void main(String[] args) {
-//        MyticketForLock myticket = new MyticketForLock();
-////
-////        for (int i = 0; i < 10; i++) {
-////            new Thread(new Runnable() {
-////                @Override
-////                public void run() {
-////                    myticket.sale();
-////                }
-////            },"æ¶ˆè´¹è€…locké”æµ‹è¯•çº¿ç¨‹-"+i).start();
-////        }
+        MyticketForLock myticket = new MyticketForLock();
+
+        for (int i = 0; i < 10; i++) {
+            new Thread(new Runnable() {
+                @Override
+                public void run() {
+                    myticket.sale();
+                }
+            },"Ïû·ÑÕßlockËø²âÊÔÏß³Ì-"+i).start();
+        }
         System.out.println(Integer.valueOf(""));
 
     }

@@ -8,7 +8,7 @@ public class Myticket {
 
     public synchronized void sale(){
         num--;
-        System.out.println(Thread.currentThread().getName()+"å–å‡ºä¸€å¼ ç¥¨,å‰©ä½™ç¥¨æ•°"+num);
+        System.out.println(Thread.currentThread().getName()+"Âô³öÒ»ÕÅÆ±,Ê£ÓàÆ±Êı"+num);
     }
 
     public static void setNum(int num) {

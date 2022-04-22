@@ -12,7 +12,7 @@ public class Test1 {
                 public void run() {
                     myticket.sale();
                 }
-            },"æ¶ˆè´¹è€…çº¿ç¨‹-"+i).start();
+            },"Ïû·ÑÕßÏß³Ì-"+i).start();
         }
 
     }

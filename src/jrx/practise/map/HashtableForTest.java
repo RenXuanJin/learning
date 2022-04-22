@@ -42,7 +42,7 @@ public class HashtableForTest {
         String value;
         for (Integer integer : ht.keySet()) {
             key = integer;
-//            value = ht.get(key);
+            value = ht.get(key);
         }
         long endTime = System.nanoTime();
         long duration = endTime - startTime;
@@ -90,7 +90,7 @@ public class HashtableForTest {
         while (iterator.hasNext()){
             Integer next = iterator.next();
             key = next;
-//            value = ht.get(key);
+            value = ht.get(key);
         }
         long endTime = System.nanoTime();
         long duration = endTime - startTime;

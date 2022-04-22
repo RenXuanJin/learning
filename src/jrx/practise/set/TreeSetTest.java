@@ -22,7 +22,7 @@ public class TreeSetTest {
 		}
 		System.out.println(ts.size());  //6
 		ts.remove(4);
-		System.out.println(ts.size());  //5
+		System.out.println(ts.size());  //6
 		//lhs.clear();
 		//System.out.println(lhs.size());  //0
 		

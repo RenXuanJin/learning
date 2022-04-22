@@ -17,7 +17,7 @@ public class FilesTest {
 	{
 		moveFile();
 		fileAttributes();
-//		createDirectory();
+		createDirectory();
 	}
 
 	public static void moveFile() {

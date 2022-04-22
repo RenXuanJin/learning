@@ -20,7 +20,7 @@ public class HashSetTest {
 		}
 		System.out.println(hs.size());  //7
 		hs.remove(4);
-		System.out.println(hs.size());  //6
+		System.out.println(hs.size());  //7
 		//hs.clear();
 		//System.out.println(hs.size());  //0
 		

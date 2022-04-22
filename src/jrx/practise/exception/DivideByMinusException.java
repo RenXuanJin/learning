@@ -8,6 +8,6 @@ public class DivideByMinusException extends Exception {
 	}
 	public int getDevisor()
 	{
-		return this.getDevisor();
+		return this.divisor;
 	}
 }
