@@ -10,13 +10,13 @@
     <file url="file://$PROJECT_DIR$/src/jrx/practise/file/PathTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/jrx/practise/file/SearchJPGFiles.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/jrx/practise/io/binary/BinFileRead.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/jrx/practise/io/binary/BinFileRead.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/jrx/practise/io/binary/BinFileWrite.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/jrx/practise/io/binary/BinFileWrite.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/jrx/practise/io/file/TxtFileRead.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/jrx/practise/io/file/TxtFileRead.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/jrx/practise/io/file/TxtFileWrite.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/jrx/practise/io/file/TxtFileWrite.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/jrx/practise/io/zip/MultipleFileUnzip.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/jrx/practise/io/zip/MultipleFileZip.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/jrx/practise/io/zip/SingleFileUnzip.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/jrx/practise/io/zip/SingleFileZip.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/jrx/practise/list/ArrayListTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/jrx/practise/list/LinkedListTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/jrx/practise/list/VectorTest.java" charset="GBK" />
